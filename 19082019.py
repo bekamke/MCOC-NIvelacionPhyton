@@ -3,7 +3,7 @@ Created on Mon Aug 19 22:58:15 2019
 
 @author: Benjamin Kamke
 """
-#Estoy mezclando todos los ejemplos que estan saliendo en el video
+#Estoy mezclando todos los ejemplos que salieron en el video
 
 a = 1 # Se le asigna el valor a una variable
 
